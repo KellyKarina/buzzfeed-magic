@@ -1,0 +1,57 @@
+{
+  "title": "Descubra seu destino mágico: Bruxo ou Criatura Mágica?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Se pudesse escolher uma habilidade mágica, preferiria:",
+      "options": [
+        {"id": 1, "name": "Voar nos céus", "alias": "B"},
+        {"id": 2, "name": "Ler mentes", "alias": "A"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é o seu animal mágico favorito?",
+      "options": [
+        {"id": 1, "name": "Fênix", "alias": "A"},
+        {"id": 2, "name": "Hipogrifo", "alias": "B"},
+        {"id": 3, "name": "Dragão", "alias": "A"},
+        {"id": 4, "name": "Unicórnio", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Em uma cidade mágica, qual seria sua loja favorita?",
+      "options": [
+        {"id": 1, "name": "Livraria de feitiços raros", "alias": "A"},
+        {"id": 2, "name": "Loja de varinhas mágicas", "alias": "B"},
+        {"id": 3, "name": "Loja de poções", "alias": "A"},
+        {"id": 4, "name": "Loja de animais mágicos", "alias": "B"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Se estivesse em apuros, qual seria seu feitiço de defesa favorito?",
+      "options": [
+        {"id": 1, "name": "Expelliarmus", "alias": "B"},
+        {"id": 2, "name": "Protego", "alias": "A"},
+        {"id": 3, "name": "Patrono", "alias": "B"},
+        {"id": 4, "name": "Estupefaça", "alias": "A"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Como você prefere passar seu tempo mágico?",
+      "options": [
+        {"id": 1, "name": "Estudando feitiços", "alias": "A"},
+        {"id": 2, "name": "Explorando lugares mágicos", "alias": "B"},
+        {"id": 3, "name": "Experimentando poções", "alias": "A"},
+        {"id": 4, "name": "Socializando com outras criaturas mágicas", "alias": "B"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um bruxo!",
+    "B": "Você muito provavelmente seria uma criatura mágica!"
+  }
+}
